@@ -1,0 +1,42 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Docker
+*.log
+
+# Secretos y credenciales
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.csr
+id_rsa
+id_ed25519
+credentials.json
+service-account.json
+secrets.yaml
+secrets.yml
+
+# Evidencias temporales
+*.tmp
+*.bak
