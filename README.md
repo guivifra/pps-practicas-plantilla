@@ -44,4 +44,4 @@ evidencias/
 - No subas imágenes enormes: usa capturas en PNG o JPG.
 - Usa nombres de archivo en minúsculas y con guiones.
 - Cada práctica debe tener su propio archivo de entrega.
-- No modifiques el workflow de seguridad.
+
