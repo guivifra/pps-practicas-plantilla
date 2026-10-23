@@ -8,16 +8,16 @@ alumnado del módulo **Puesta en producción segura**.
 1. Crea tu propio repositorio privado desde esta plantilla.
 2. Clona tu repositorio:
 
-```bash
-git clone [https://github.com/TU-USUARIO/TU-REPOSITORIO.git](https://github.com/TU-USUARIO/TU-REPOSITORIO.git)
-cd TU-REPOSITORIO
-```
+    ```bash
+    git clone [https://github.com/TU-USUARIO/TU-REPOSITORIO.git](https://github.com/TU-USUARIO/TU-REPOSITORIO.git)
+    cd TU-REPOSITORIO
+    ```
 
 3. Trabaja en una rama para cada práctica:
 
-```bash
-git switch -c practica/ud3-1-analisis
-```
+    ```bash
+    git switch -c practica/ud3-1-analisis
+    ```
 
 4. Guarda los documentos en `docs/`.
 5. Guarda capturas, registros y otras evidencias en `evidencias/`.
@@ -45,4 +45,3 @@ evidencias/
 - Usa nombres de archivo en minúsculas y con guiones.
 - Cada práctica debe tener su propio archivo de entrega.
 - No modifiques el workflow de seguridad.
-
